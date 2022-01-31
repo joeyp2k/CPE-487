@@ -1,2 +1,2 @@
-# CPE-487
+# CPE 487
 ## Digital Systems Design
