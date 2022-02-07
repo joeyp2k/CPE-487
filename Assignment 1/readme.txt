@@ -1,0 +1,1 @@
+Retrieved from https://cse.unl.edu/~jfalkinburg/cse_courses/2020/436/lecture/lecture04.html
