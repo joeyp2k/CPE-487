@@ -1,1 +1,1 @@
-![GTKWave](/Assignment 2/homework2.png?raw=true "GTKWave")
+![alt text](homework2.png?raw=true)
