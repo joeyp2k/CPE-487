@@ -1,1 +1,1 @@
-![Alt text](/relative/path/to/homework2.png?raw=true "GTKWave")
+![GTKWave](/Assignment 2/homework2.png?raw=true "GTKWave")
