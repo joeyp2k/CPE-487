@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2021.2 (64-bit)
+# SW Build 3367213 on Tue Oct 19 02:48:09 MDT 2021
+# IP Build 3369179 on Thu Oct 21 08:25:16 MDT 2021
+# Start of session at: Mon Mar  7 17:32:48 2022
+# Process ID: 19556
+# Current directory: C:/Users/joeyp/vivado_projects/leddec/leddec.runs/impl_1
+# Command line: vivado.exe -log leddec.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source leddec.tcl -notrace
+# Log file: C:/Users/joeyp/vivado_projects/leddec/leddec.runs/impl_1/leddec.vdi
+# Journal file: C:/Users/joeyp/vivado_projects/leddec/leddec.runs/impl_1\vivado.jou
+# Running On: DESKTOP-MDDE28I, OS: Windows, CPU Frequency: 2112 MHz, CPU Physical cores: 4, Host memory: 8502 MB
+#-----------------------------------------------------------
+source leddec.tcl -notrace
