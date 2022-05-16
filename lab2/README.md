@@ -7,5 +7,5 @@ In a modified version of the program, the counter operates with eight digits ins
 https://user-images.githubusercontent.com/65480784/168452055-8afbd4c3-7a2d-4997-8aaf-6b39d54a3172.mp4
 
 ## Hex4Count Modified
-https://user-images.githubusercontent.com/65480784/168586685-fe1d8aec-7dae-4209-aa0c-036e0552fb81.mp4
+https://user-images.githubusercontent.com/65480784/168586831-33235448-87d7-4b89-93e6-f1a1886b64eb.mp4
 
